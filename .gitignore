@@ -1,0 +1,5 @@
+# ignore files in folder 
+generated/*
+# but keep the folder
+!generated/.gitkeep
+node_modules/
